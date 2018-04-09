@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "request": "*",
+    "bitcore-lib": "*",
+    "bitcore-explorers": "*",
+    "bitcoin-address": "*"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tobias74/nodejs-bitcoin-payment.git"

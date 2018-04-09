@@ -7,6 +7,7 @@ var insight = new bitcoreExplorers.Insight();
 
 delete global._bitcore;
 var bitcore = require('bitcore-lib');
+delete global._bitcore;
 
 
 var options = {
