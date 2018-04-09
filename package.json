@@ -1,0 +1,24 @@
+{
+  "name": "@tobias74/make-bitcoin-payment",
+  "version": "1.0.0",
+  "description": "easy bitcoin payments with automatic mining fees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobias74/nodejs-bitcoin-payment.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "transaction",
+    "payment"
+  ],
+  "author": "Tobias Gassmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tobias74/nodejs-bitcoin-payment/issues"
+  },
+  "homepage": "https://github.com/tobias74/nodejs-bitcoin-payment#readme"
+}
